@@ -1,3 +1,12 @@
+Changes in the Fork
+==================
+* Remembers selection state.
+* Hides if not a *.js file or if there are no errors to show.
+
+Install via: 
+
+	git clone git://github.com/atishay811/brackets-jshint.git user/jshint
+
 brackets-jshint
 =================
 
